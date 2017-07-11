@@ -1,0 +1,13 @@
+.pad-left-10 {
+    padding-left: 10px;
+}
+.increments {
+    border: black 1px solid;
+    border-radius: .75em;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+.Item {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 10px;
+}
